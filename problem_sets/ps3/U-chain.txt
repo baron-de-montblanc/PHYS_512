@@ -1,0 +1,16 @@
+Element	Half-life (seconds)	
+Uranium-238	1.40903E+17	
+Thorium-234	2082240	
+Protactinium-234	24120	
+Uranium-234	7.74307E+12	
+Thorium-230	2.37749E+12	
+Radium-226	50464000000	
+Radon-222	330350.4	
+Polonium-218	186	
+Plomb-214	1608	
+Bismuth-214	1194	
+Polonium-214	0.0001643	
+Plomb-210	703342000	
+Bismuth-210	158173100	
+Polonium-210	11955686.4	
+Plomb-206	Stable	
